@@ -5,12 +5,12 @@ name:                iso8601-duration
 version:             0.1.2.0
 synopsis:            Types and parser for ISO8601 durations
 description:         Types and parser for ISO8601 durations and intervals
-homepage:            https://github.com/meteogrid/iso8601-duration
+homepage:            https://github.com/albertov/iso8601-duration
 license:             BSD3
 license-file:        LICENSE
 author:              Alberto Valverde (original code from Niklas Hambüchen?)
-maintainer:          alberto@meteogrid.com
-copyright:           2016-2018 Alberto Valverde
+maintainer:          alberto@toscat.net
+copyright:           2016-2024 Alberto Valverde
 category:            Data
 build-type:          Simple
 extra-source-files:  ChangeLog.md
@@ -54,4 +54,4 @@ test-suite spec
 
 source-repository head
   type:     git
-  location: https://github.com/meteogrid/iso8601-duration
+  location: https://github.com/albertov/iso8601-duration
