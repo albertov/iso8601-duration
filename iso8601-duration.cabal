@@ -22,7 +22,7 @@ library
   -- other-modules:
   other-extensions:    ScopedTypeVariables, OverloadedStrings
   build-depends:       base              >= 4.7    && < 5.0
-                     , bytestring        >= 0.10   && < 0.12
+                     , bytestring        >= 0.10   && < 0.13
                      , attoparsec        >= 0.13.1 && < 0.15
                      , time              >= 1.8    && < 1.13
                      , bytestring-lexing >= 0.5    && < 0.6
