@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                iso8601-duration
-version:             0.1.2.0
+version:             0.1.2.1
 synopsis:            Types and parser for ISO8601 durations
 description:         Types and parser for ISO8601 durations and intervals
 homepage:            https://github.com/albertov/iso8601-duration
